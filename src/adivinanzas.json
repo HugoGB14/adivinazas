@@ -1,4 +1,83 @@
 [{"req":"En el altar me adoran, en el agua me bendicen, porque los sabios dicen, que soy la primera entre todas",
 "res":"La letra A"},{"req":"Tiene dientes y no come, tiene cabeza y no es hombre",
 "res":"El ajo"},{"req":"Uso aguja sin coser, corto sin tijera, ando siempre",
-"res":"El barco"}]
+"res":"El barco"},{
+    "req": "Verde por fuera, blanco por dentro. Si lo comes, te dará aliento.",
+    "res": "El ajo"
+  },
+  {
+    "req": "En la noche brillan sin cesar, en el día desaparecen sin dejar rastro. ¿Qué son?",
+    "res": "Las estrellas"
+  },
+  {
+    "req": "Con cuatro patas y cola enroscada, en casa descansa y no da nada.",
+    "res": "El perro"
+  },
+  {
+    "req": "Vuela alto en el cielo, con plumas blancas como el hielo.",
+    "res": "El cisne"
+  },
+  {
+    "req": "En la selva camina, rugiendo sin cesar. ¿Qué animal puede ser?",
+    "res": "El león"
+  },
+  {
+    "req": "Vive en el agua, lleva su casa en la espalda. ¿Quién es?",
+    "res": "La tortuga"
+  },
+  {
+    "req": "Amarillo por fuera, blanco por dentro, si lo dejas al sol, se pone contento.",
+    "res": "El plátano"
+  },
+  {
+    "req": "Vuela sin alas, llora sin ojos, ¿qué es?",
+    "res": "El viento"
+  },
+  {
+    "req": "En el campo pasta, lana da y bala. ¿Quién es?",
+    "res": "La oveja"
+  },
+  {
+    "req": "Tengo patas largas y un cuello muy largo, me encanta el agua y el barro es mi regalo.",
+    "res": "El flamenco"
+  },
+  {
+    "req": "Tengo hojas pero no soy un árbol, tengo páginas pero no soy un libro. ¿Qué soy?",
+    "res": "Un periódico"
+  },
+  {
+    "req": "Roja por fuera, blanca por dentro, en verano se come y en invierno se bebe. ¿Qué es?",
+    "res": "La sandía"
+  },
+  {
+    "req": "Sin patas, sin manos, sube montes y no camina. ¿Qué es?",
+    "res": "El río"
+  },
+  {
+    "req": "Tengo ramas y hojas, pero no soy un árbol. ¿Qué soy?",
+    "res": "Una biblioteca"
+  },
+  {
+    "req": "Se arrastra por el suelo, no tiene patas ni alas, y siempre dice la verdad. ¿Quién es?",
+    "res": "La sombra"
+  },
+  {
+    "req": "Amarillo por fuera, blanco por dentro, y si no lo pelas, ¡qué mal aliento!",
+    "res": "El ajo"
+  },
+  {
+    "req": "Tengo dientes y no como, tengo un lecho y no duermo. ¿Quién soy?",
+    "res": "Un río"
+  },
+  {
+    "req": "Si me rompes, no sirvo para nada. Si me estudias, soy muy apreciada. ¿Qué soy?",
+    "res": "Un huevo"
+  },
+  {
+    "req": "Soy redonda como una pelota, siempre ruedo pero nunca salto. ¿Qué soy?",
+    "res": "La luna"
+  },
+  {
+    "req": "Soy una fruta tropical, amarilla por fuera, blanca por dentro. ¿Qué soy?",
+    "res": "La piña"
+  }]
