@@ -16,7 +16,7 @@ function App() {
   const handleCorregirClick = () => {
     if (t === advina.res) {
       yesOrNoSet("Correcto, reiniciando la página en 2 segundos...");
-      // Espera 5 segundos antes de recargar la página
+      // Espera 5 segundos antes de recargar la páginat
       setTimeout(() => {
         window.location.reload();
       }, 2000);
